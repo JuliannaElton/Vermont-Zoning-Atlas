@@ -1,5 +1,7 @@
 title: Vermont Zoning Atlas
 description: The Vermont Zoning Atlas is a web-based geospatial interface that visualizes zoning code distributions across all of Vermont.
+google_analytics:
+theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
