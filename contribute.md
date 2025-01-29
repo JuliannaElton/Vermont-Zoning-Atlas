@@ -2,6 +2,15 @@
 title: Contribute
 layout: default
 ---
+# Contribute
+
+How can you contribute to the Vermont Zoning Atlas?  
+
+While we follow much of the methodology of the [National Zoning Atlas](https://www.zoningatlas.org/atlas) we do deviate in a variety of ways to best reflect the Vermont Zoning practices. It is also very helpful to explore [HOW TO MAKE A ZONING ATLAS](https://www.zoningatlas.org/how) whic c is a guide with step-by-step instructions about how to list zoning districts, analyze zoning code texts, and collect and upload geospatial information into the National Zoning Atlas Editor.  
+
+Please be sure to review the Data page to best understand
+
+
 
 ## Glossary
 
