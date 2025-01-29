@@ -2,7 +2,7 @@ title: Vermont Zoning Atlas
 description: The Vermont Zoning Atlas is a web-based geospatial interface that visualizes zoning code distributions across all of Vermont.
 google_analytics:
 
-
+repository: VERSO-UVM/Vermont-Zoning-Atlas
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
