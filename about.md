@@ -3,38 +3,38 @@ title: About
 layout: default
 ---
 # About
-Inspired by Sara Bronin’s keynote speech at the 2022 [Vermont Statewide Housing Conference](https://vhfa.org/conference), University of Vermont students Yoshi Bird and Michael Arnold approached the state and other partners about creating a dataset that could visualize geospatial distributions of land use regulations across Vermont down to the individual district level. Emily Sun, a planner from New York City and Middlebury graduate, volunteered as the founding Zoning Analyst Team Lead, supported by Dr. William Hegman of Middlebury College, while Colin Dowey, former of the Agency of Commerce and Community Development, acted as the consulting Geospatial Lead.
+Inspired by Sara Bronin’s keynote speech at the 2022 [Vermont Statewide Housing Conference](https://vhfa.org/conference), University of Vermont students [Yoshi Bird](https://www.linkedin.com/in/yoshi-bird-57278a257/) and [Michael Arnold](https://mvarnold.w3.uvm.edu/) approached the state and other partners about creating a dataset that could visualize geospatial distributions of land use regulations across Vermont down to the individual district level. Emily Sun, a planner from New York City and Middlebury graduate, volunteered as the founding Zoning Analyst Team Lead, supported by Dr. William Hegman of Middlebury College, while Colin Dowey, former of the Agency of Commerce and Community Development, acted as the consulting Geospatial Lead.
 
 Key partners who provided additional staffing to organize and lead sub-teams included Kendall Fortney of the Vermont Open Source Research Office (VERSO) at the University of Vermont, Catherine Dimitruk of the Northwest Regional Planning Commission, and Leslie Black-Plumeau of the Vermont Housing Finance Agency. Significant funding for student interns was provided by the University of Vermont Geography and Geosciences Department, Gund Fund for the Environment, the College of Arts & Sciences Fellowship program and an anonymous donation which supported the UVM ORCA Student internship teams for over a year.
 
 ## Vermont Research Open Source Program Office @ UVM
 ### Open Research Community Acclerator (ORCA) 
 
+In August 2024, the project officially transferred ownership to VERSO and the University of Vermont’s Open Source Programs Office under the leadership of Director Kendall Fortney, which will continue to coordinate the ongoing collection of a custom data subset in partnership with the Regional Planning Commissions, Town Planners, the Agency of Commerce and Community Development, and the Vermont Center for Geographic Information. Additional projects, like this site, will be created to explore the Vermont Zoning Atlas data and its implications for Vermont’s future along with other datasets.
+
 The Open Research Community Accelerator (ORCA) is a student program that grows the impact of academic research by making research products accessible to other academics, local businesses, and community members through open source project. ORCA creates these products through student project teams called Pods — groups of dynamic and passionate students who learn industry open source practices by working on real projects destined for public use. This program is run and funded by the University of Vermont Open Source Program Office (VERSO). ORCA’s goals are to produce impactful, accessible, open source research tools by training tomorrow’s workforce in marketable open source skills.
 
 ### Spring 2024
-Zoe Sreden (Team Lead)
-Anoushka Pschorr
-Emma Eash
-Tucker Schulz
-Zachary Winigrad
+- Zoe Sreden (Team Lead)
+- Anoushka Pschorr
+- Emma Eash
+- Tucker Schulz
+- Zachary Winigrad
 
 ### Summer 2024
-Zachary Winigrad (Team Lead)
-Tucker Schulz
-Aleah Young
+- Zachary Winigrad (Team Lead)
+- Tucker Schulz
+- Aleah Young
 
 ### Fall 2024
-Zachary Winigrad (Team Lead)
-Aleah Young 
-Matthew Premysler
+- Zachary Winigrad (Team Lead)
+- Aleah Young 
+- Matthew Premysler
 
-The project was also presented at the 2024 Invention2Venture April 18, 2024 at the University of Vermont as part of a talk on the Open Research Community Accelerator (ORCA) program with Zoe Srenden presenting along with other team members.
-
-In August 2024, the project officially transferred ownership to VERSO and the University of Vermont’s Open Source Programs Office under the leadership of Director Kendall Fortney, which will continue to coordinate the ongoing collection of a custom data subset in partnership with the Regional Planning Commissions, Town Planners, the Agency of Commerce and Community Development, and the Vermont Center for Geographic Information. Additional projects, like this site, will be created to explore the Vermont Zoning Atlas data and its implications for Vermont’s future along with other datasets.
+The project was also presented at the [2024 Invention2Venture](https://www.uvm.edu/uvminnovations/invention-2-venture-i2v-conference) April 18, 2024 at the University of Vermont as part of a talk on the Open Research Community Accelerator (ORCA) program with Zoe Srenden presenting along with other team members.
 
 ## Funding
-This project was made possible with a variety funds including an anonymous donation that supported all the work by the ORCA teams!
+This project was made possible with significant funding for student interns provided by the University of Vermont Geography and Geosciences Department, [Gund Fund for the Environment](https://www.uvm.edu/gund), the [College of Arts & Sciences](https://www.uvm.edu/cas) Fellowship program and an anonymous donation which supported the UVM ORCA Student internship teams for over a year. 
 
 ## Partnerships
 The project is in collaboration with the following
