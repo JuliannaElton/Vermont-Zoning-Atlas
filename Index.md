@@ -2,6 +2,12 @@
 title: Index
 layout: default
 ---
+
+{% assign date = '2020-04-13T10:20:00Z' %}
+
+- Original date - {{ date }}
+- With timeago filter - {{ date | timeago }}
+
 # Vermont Zoning Atlas
 
 The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based geospatial interface that visualizes zoning code distributions across all of Vermont. Zoning rules can present barriers to effective city planning, impairing our ability to achieve important policy objectives like community desegregation, climate change resiliency, transportation access, homelessness relief, and affordable housing development. The Vermont Zoning Atlas seeks to democratize researchers', policymakers', advocates', and everyday citizens' understanding of zoning regulations and enable apples-to-apples cross-jurisdiction comparisons through a methodology developed by our partner, the [National Zoning Atlas](https://www.zoningatlas.org/).

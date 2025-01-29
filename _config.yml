@@ -25,6 +25,7 @@ header_pages:
   - index.md
   - about.md
   - data.md
+  - contribute.md
   - resources.md
 
 # Set to `true` to show excerpts on the homepage.
