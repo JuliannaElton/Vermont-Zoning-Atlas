@@ -4,7 +4,7 @@ layout: default
 ---
 # About
 
-![vcgi_map_screenshot](/asset/vcgi_map_screenshot.png)
+![vcgi_map_screenshot](https://verso-uvm.github.io/Vermont-Zoning-Atlas/asset/vcgi_map_screenshot.png)
 ## The Start of the Zoning Atlas
 Inspired by Sara Bronin’s keynote speech at the 2022 [Vermont Statewide Housing Conference](https://vhfa.org/conference), [University of Vermont](https://www.uvm.edu/) students [Yoshi Bird](https://www.linkedin.com/in/yoshi-bird-57278a257/) and [Michael Arnold](https://mvarnold.w3.uvm.edu/) approached the state and other partners about creating a dataset that could visualize geospatial distributions of land use regulations across Vermont down to the individual district level. Emily Sun, a planner from New York City and Middlebury graduate, volunteered as the founding Zoning Analyst Team Lead, supported by Dr. William Hegman of Middlebury College, while Colin Dowey, former of the Agency of Commerce and Community Development, acted as the consulting Geospatial Lead.
 
