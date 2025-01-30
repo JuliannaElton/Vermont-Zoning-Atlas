@@ -5,7 +5,6 @@ google_analytics:
 repository: VERSO-UVM/Vermont-Zoning-Atlas
 # Build settings
 
-url: "https://verso-uvm.github.io/"
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
 

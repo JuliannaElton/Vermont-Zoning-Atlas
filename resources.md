@@ -5,14 +5,12 @@ layout: default
 # Resources
 
 This is a collection of resources, maps, analysis and other things that we think will help you explore zoning
-Created by VCGI
-Where different types of housing can be built according to an analysis of zoning districts across Vermont
 
-[https://arcg.is/TaTuz0](https://arcg.is/TaTuz0)
+## Visualizations from the Vermont Zoning Atlas Data
+[https://arcg.is/TaTuz0](https://arcg.is/TaTuz0) - Created by VCGI it explores where different types of housing can be built according to an analysis of zoning districts across Vermont
 
-ArcGis Maps
-1 Family Min Lot Size [https://arcg.is/0OiKiq](https://arcg.is/0OiKiq)
-2 Family Min Lot Size [https://arcg.is/1Dq9qu](https://arcg.is/1Dq9qu)
+[https://arcg.is/0OiKiq](https://arcg.is/0OiKiq) - Created by VERSO, it visualizes 1 Family Min Lot Size 
+[https://arcg.is/1Dq9qu](https://arcg.is/1Dq9qu) - Created by VERSO, it visualizes 2 Family Min Lot Size 
 
 
 VT Zoning Atlas Github
