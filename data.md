@@ -13,7 +13,7 @@ Data uploaded to the National Zoning Atlas can be found in the "ZoningAtlas" fol
 This effort is a collection of teams which includes volunteers, interns, and students getting course credit. Please reach out in Discussions to see if you can join the effort! Take a look at at the [Contribute](contribute.md) page to understand how to submit changes once you have made yourself familiar with this data
 
 Field Abbreviation
-
+---
 JXTN = Jurisdiction
 ABB_DIST_NAME = abbreviated district name
 DIST_NAME = full district name
@@ -36,3 +36,4 @@ F1F_FSET = front set back requirement
 F1F_SSET = side set back requirement
 F1F_RSET = rear setback requirement
 F1F_MIN_LOT = min lot size in acres
+---
