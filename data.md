@@ -87,5 +87,4 @@ CONDITIONAL + Other Field name: alternative value for field (ex. CONDITIONAL 1F 
 Bylaw Date: Date of Bylaw that data is based off (for versioning purposes)
 Version: Zoning Atlas version (also for versioning purposes)
 Acres: Size of district in acres
-
 ---
