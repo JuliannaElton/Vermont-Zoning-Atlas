@@ -14,8 +14,8 @@ This effort is a collection of teams which includes volunteers, interns, and stu
 
 Field Abbreviation
 ---
-JXTN = Jurisdiction
-ABB_DIST_NAME = abbreviated district name
+JXTN : Jurisdiction
+ABB_DIST_NAME : abbreviated district name
 DIST_NAME = full district name
 OVER = Overlay district (yes/no)
 EXT_DST = extinct district (yes/no), extinct meaning that it exists in the map but not the bylaws
