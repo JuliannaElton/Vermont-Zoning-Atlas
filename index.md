@@ -16,7 +16,7 @@ Note: This is a community built dataset, please check with your local town offic
 The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based geospatial interface that visualizes zoning code distributions across all of Vermont. Zoning rules can present barriers to effective city planning, impairing our ability to achieve important policy objectives like community desegregation, climate change resiliency, transportation access, homelessness relief, and affordable housing development. The Vermont Zoning Atlas seeks to democratize researchers', policymakers', advocates', and everyday citizens' understanding of zoning regulations and enable apples-to-apples cross-jurisdiction comparisons through a methodology developed by our partner, the [National Zoning Atlas](https://www.zoningatlas.org/).
 
 
-<div id="map" style="height: 500px;"></div>
+<div id="map" style="width: 100%; height: 800px;"></></div>
 
 <script>
   // Initialize the map
@@ -39,7 +39,7 @@ The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based g
   }
 
   // Fetch the GeoJSON data and add it to the map
-  fetch('/data/vt-zoning-expanded-part1.geojson')
+  fetch('data/vt-zoning-expanded-ACRPC.geojson')
     .then(response => {
       if (!response.ok) {
         throw new Error('Network response was not ok ' + response.statusText);
@@ -54,7 +54,7 @@ The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based g
     .catch(error => console.error('Error loading GeoJSON data:', error));
 
     // Fetch the GeoJSON data and add it to the map
-  fetch('/data/vt-zoning-expanded-part2.geojson')
+  fetch('data/vt-zoning-expanded-BCRC.geojson')
     .then(response => {
       if (!response.ok) {
         throw new Error('Network response was not ok ' + response.statusText);
@@ -69,7 +69,7 @@ The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based g
     .catch(error => console.error('Error loading GeoJSON data:', error));
 
     // Fetch the GeoJSON data and add it to the map
-  fetch('/data/vt-zoning-expanded-part3.geojson')
+  fetch('data/vt-zoning-expanded-CCRPC.geojson')
     .then(response => {
       if (!response.ok) {
         throw new Error('Network response was not ok ' + response.statusText);
