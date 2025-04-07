@@ -16,8 +16,6 @@ Note: This is a community built dataset, please check with your local town offic
 The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based geospatial interface that visualizes zoning code distributions across all of Vermont. Zoning rules can present barriers to effective city planning, impairing our ability to achieve important policy objectives like community desegregation, climate change resiliency, transportation access, homelessness relief, and affordable housing development. The Vermont Zoning Atlas seeks to democratize researchers', policymakers', advocates', and everyday citizens' understanding of zoning regulations and enable apples-to-apples cross-jurisdiction comparisons through a methodology developed by our partner, the [National Zoning Atlas](https://www.zoningatlas.org/).
 
 
-
-
 <div id="map" style="height: 500px;"></div>
 
 <script>
@@ -29,7 +27,6 @@ The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based g
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
 
-  
   // Function to bind popups to each feature
   function onEachFeature(feature, layer) {
     if (feature.properties) {
@@ -42,9 +39,13 @@ The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based g
   }
 
   // Fetch the GeoJSON data and add it to the map
-
   fetch('/data/vt-zoning-expanded-vermont.geojson')
-    .then(response => response.json())
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok ' + response.statusText);
+      }
+      return response.json();
+    })
     .then(data => {
       L.geoJSON(data, {
         onEachFeature: onEachFeature
