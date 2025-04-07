@@ -39,7 +39,7 @@ The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based g
   }
 
   // Fetch the GeoJSON data and add it to the map
-  fetch('/data/vt-zoning-expanded--part1.geojson')
+  fetch('/data/vt-zoning-expanded-part1.geojson')
     .then(response => {
       if (!response.ok) {
         throw new Error('Network response was not ok ' + response.statusText);
@@ -69,7 +69,7 @@ The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based g
     .catch(error => console.error('Error loading GeoJSON data:', error));
 
     // Fetch the GeoJSON data and add it to the map
-  fetch('/data/vt-zoning-expanded--part3.geojson')
+  fetch('/data/vt-zoning-expanded-part3.geojson')
     .then(response => {
       if (!response.ok) {
         throw new Error('Network response was not ok ' + response.statusText);
