@@ -18,6 +18,7 @@ The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based g
 
 <div id="map" style="width: 100%; height: 800px;"></></div>
 
+
 <script>
   // Initialize the map
   var map = L.map('map').setView([43.951, -72.756], 7);
@@ -27,16 +28,22 @@ The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based g
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
 
+  // List of fields to display in the popup
+  var fieldsToDisplay = ["District Type", "District Name", "1F Allowance"]; // Replace with your field names
+
   // Function to bind popups to each feature
   function onEachFeature(feature, layer) {
     if (feature.properties) {
       var popupContent = "<p><strong>Attributes:</strong></p>";
-      for (var key in feature.properties) {
-        popupContent += "<p>" + key + ": " + feature.properties[key] + "</p>";
-      }
+      fieldsToDisplay.forEach(field => {
+        if (feature.properties[field] !== undefined) {
+          popupContent += "<p>" + field + ": " + feature.properties[field] + "</p>";
+        }
+      });
       layer.bindPopup(popupContent);
     }
   }
+
 
   // Fetch the GeoJSON data and add it to the map
   fetch('data/vt-zoning-expanded-ACRPC.geojson')
@@ -70,6 +77,142 @@ The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based g
 
     // Fetch the GeoJSON data and add it to the map
   fetch('data/vt-zoning-expanded-CCRPC.geojson')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok ' + response.statusText);
+      }
+      return response.json();
+    })
+    .then(data => {
+      L.geoJSON(data, {
+        onEachFeature: onEachFeature
+      }).addTo(map);
+    })
+    .catch(error => console.error('Error loading GeoJSON data:', error));
+
+      // Fetch the GeoJSON data and add it to the map
+  fetch('data/vt-zoning-expanded-CVRPC.geojson')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok ' + response.statusText);
+      }
+      return response.json();
+    })
+    .then(data => {
+      L.geoJSON(data, {
+        onEachFeature: onEachFeature
+      }).addTo(map);
+    })
+    .catch(error => console.error('Error loading GeoJSON data:', error));
+
+
+      // Fetch the GeoJSON data and add it to the map
+  fetch('data/vt-zoning-expanded-LCPC.geojson')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok ' + response.statusText);
+      }
+      return response.json();
+    })
+    .then(data => {
+      L.geoJSON(data, {
+        onEachFeature: onEachFeature
+      }).addTo(map);
+    })
+    .catch(error => console.error('Error loading GeoJSON data:', error));
+
+
+      // Fetch the GeoJSON data and add it to the map
+  fetch('data/vt-zoning-expanded-MARC.geojson')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok ' + response.statusText);
+      }
+      return response.json();
+    })
+    .then(data => {
+      L.geoJSON(data, {
+        onEachFeature: onEachFeature
+      }).addTo(map);
+    })
+    .catch(error => console.error('Error loading GeoJSON data:', error));
+
+          // Fetch the GeoJSON data and add it to the map
+  fetch('data/vt-zoning-expanded-NVDA.geojson')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok ' + response.statusText);
+      }
+      return response.json();
+    })
+    .then(data => {
+      L.geoJSON(data, {
+        onEachFeature: onEachFeature
+      }).addTo(map);
+    })
+    .catch(error => console.error('Error loading GeoJSON data:', error));
+
+          // Fetch the GeoJSON data and add it to the map
+  fetch('data/vt-zoning-expanded-NWRPC.geojson')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok ' + response.statusText);
+      }
+      return response.json();
+    })
+    .then(data => {
+      L.geoJSON(data, {
+        onEachFeature: onEachFeature
+      }).addTo(map);
+    })
+    .catch(error => console.error('Error loading GeoJSON data:', error));
+
+          // Fetch the GeoJSON data and add it to the map
+  fetch('data/vt-zoning-expanded-NWRPC.geojson')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok ' + response.statusText);
+      }
+      return response.json();
+    })
+    .then(data => {
+      L.geoJSON(data, {
+        onEachFeature: onEachFeature
+      }).addTo(map);
+    })
+    .catch(error => console.error('Error loading GeoJSON data:', error));
+    
+          // Fetch the GeoJSON data and add it to the map
+  fetch('data/vt-zoning-expanded-RRPC.geojson')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok ' + response.statusText);
+      }
+      return response.json();
+    })
+    .then(data => {
+      L.geoJSON(data, {
+        onEachFeature: onEachFeature
+      }).addTo(map);
+    })
+    .catch(error => console.error('Error loading GeoJSON data:', error));
+          // Fetch the GeoJSON data and add it to the map
+
+  fetch('data/vt-zoning-expanded-TRORC.geojson')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok ' + response.statusText);
+      }
+      return response.json();
+    })
+    .then(data => {
+      L.geoJSON(data, {
+        onEachFeature: onEachFeature
+      }).addTo(map);
+    })
+    .catch(error => console.error('Error loading GeoJSON data:', error));
+
+      fetch('data/vt-zoning-expanded-WRC.geojson')
     .then(response => {
       if (!response.ok) {
         throw new Error('Network response was not ok ' + response.statusText);
