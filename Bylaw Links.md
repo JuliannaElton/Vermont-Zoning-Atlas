@@ -1,6 +1,6 @@
 |RPC|Jurisdiction|Link|
 |-|-|-|
-|## ACRPC|Whole RPC|https://acrpc.org/regional-programs/municipal-planning/ (be sure to select communities at the top nav bar)|
+|<h3>ACRPC</h3>|Whole RPC|https://acrpc.org/regional-programs/municipal-planning/ (be sure to select communities at the top nav bar)|
 |ACRPC|Addison|https://addisonvt.gov/zoning/|
 |ACRPC|Bridport|https://bridportvt.org/town-main-info|
 |ACRPC|Bristol|https://bristolvt.org/documents-and-forms/|
