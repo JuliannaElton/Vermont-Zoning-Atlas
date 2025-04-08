@@ -61,20 +61,20 @@
 |CCRPC|Williston|https://www.town.williston.vt.us/?SEC=26EA4BDF-4482-4523-B051-394E7ACEDA5C
 |CCRPC|Winooski|https://winooskivt.gov/202/Regulations-and-Ordinances
 |<h3><ins>CVRPC</ins></h3>|Whole RPC|https://centralvtplanning.org/ ("Towns" in nav bar)|
-|CVRPC|Barre City|
-|CVRPC|Barre Town|
-|CVRPC|Berlin|
-|CVRPC|Cabot|
-|CVRPC|Calais|
-|CVRPC|Duxbury|
-|CVRPC|East Montpelier|
-|CVRPC|Fayson|
-|CVRPC|Marshfield|
-|CVRPC|Middlesex|
-|CVRPC|Montpelier|
-|CVRPC|Moretown|
-|CVRPC|Northfield|
-|CVRPC|Orange|
+|CVRPC|Barre City|https://www.barrecity.org/land-use-and-other-ordinances.html
+|CVRPC|Barre Town|https://www.barretown.org/departments/planning_and_zoning_department/index.php
+|CVRPC|Berlin|https://www.berlinvt.gov/towndocuments
+|CVRPC|Cabot|https://cabotvt.us/reports-forms-permits/
+|CVRPC|Calais|https://www.calaisvermont.gov/?SEC=CE1A6257-3E83-4901-97E0-ACCC18BDFD04
+|CVRPC|Duxbury|https://www.duxburyvermont.org/town-government/zoning
+|CVRPC|East Montpelier|https://eastmontpeliervt.org/documents/planning-zoning-documents/
+|CVRPC|Fayson|https://faystonvt.com/departments-documents/zoning-subdivision-regulations-permit-applications/#:~:text=Fayston%20requires%20a%20zoning%20permit,excavation%20or%20landfill%2C%20and%20any
+|CVRPC|Marshfield|https://marshfieldvt.gov/zoning
+|CVRPC|Middlesex|https://middlesexvermont.org/laws-and-ordinances/zoning-rules/
+|CVRPC|Montpelier|https://www.montpelier-vt.org/833/Zoning-Subdivision-Regulations
+|CVRPC|Moretown|https://www.moretownvt.org/laws-and-ordinances/zoning-regs/
+|CVRPC|Northfield|https://www.northfield-vt.gov/zoning-1
+|CVRPC|Orange|https://centralvtplanning.org/towns/orange/
 |CVRPC|Plainfield|
 |CVRPC|Roxbury|
 |CVRPC|Waitsfield|
