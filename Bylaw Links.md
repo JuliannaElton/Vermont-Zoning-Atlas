@@ -1,6 +1,6 @@
 |RPC|Jurisdiction|Link|
 |-|-|-|
-|ACRPC|Whole RPC|https://acrpc.org/regional-programs/municipal-planning/ (be sure to select communities at the top nav bar)|
+|**ACRPC**|Whole RPC|https://acrpc.org/regional-programs/municipal-planning/ (be sure to select communities at the top nav bar)|
 |ACRPC|Addison|https://addisonvt.gov/zoning/|
 |ACRPC|Bridport|https://bridportvt.org/town-main-info|
 |ACRPC|Bristol|https://bristolvt.org/documents-and-forms/|
@@ -22,7 +22,7 @@
 |ACRPC|Waltham|https://www.walthamvt.org/resources/developmentreviewboard-planningccommission-zoing|
 |ACRPC|Weybridge|https://www.townofweybridge.org/new-page|
 |ACRPC|Whiting|https://www.whitingvt.com/zoning|
-|BCRC|Whole RPC|http://www.bcrcvt.org/regional-plan.html (select town from nav bar)|
+|**BCRC**|Whole RPC|http://www.bcrcvt.org/regional-plan.html (select town from nav bar)|
 |BCRC|Arlington|https://arlingtonvermont.org/zoning-planning/|
 |BCRC|Bennington|https://www.benningtonvt.org/services/planning___permitting/building___zoning_ordinances.php|
 |BCRC|Dorset|https://dorsetvt.org/zoning.html|
@@ -40,7 +40,7 @@
 |BCRC|Stamford|https://townofstamfordvermont.org/forms-and-documents
 |BCRC|Sunderland|https://sunderlandvt.org/town-laws/bylaws-and-town-plan/
 |BCRC|Woodford|https://woodfordvt.org/documents|
-|CCRPC|Whole RPC|https://www.ccrpcvt.org/our-work/municipal-planning-assistance/zoning-bylaws/ ("Our Communities" in the nav bar)|
+|**CCRPC**|Whole RPC|https://www.ccrpcvt.org/our-work/municipal-planning-assistance/zoning-bylaws/ ("Our Communities" in the nav bar)|
 |CCRPC|Bolton|https://boltonvt.com/documents/zoning-ordinance-information/
 |CCRPC|Buel's Gore|https://www.ccrpcvt.org/our-communities/buels-gore/
 |CCRPC|Burlington|https://www.burlingtonvt.gov/553/Zoning-Ordinance
@@ -60,7 +60,7 @@
 |CCRPC|Westford|https://westfordvt.us/documents/planning-zoning/
 |CCRPC|Williston|https://www.town.williston.vt.us/?SEC=26EA4BDF-4482-4523-B051-394E7ACEDA5C
 |CCRPC|Winooski|https://winooskivt.gov/202/Regulations-and-Ordinances
-|CVRPC|Whole RPC|https://centralvtplanning.org/ ("Towns" in nav bar)|
+|**CVRPC**|Whole RPC|https://centralvtplanning.org/ ("Towns" in nav bar)|
 |CVRPC|Barre City|
 |CVRPC|Barre Town|
 |CVRPC|Berlin|
