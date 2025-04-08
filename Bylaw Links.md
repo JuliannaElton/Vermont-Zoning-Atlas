@@ -168,57 +168,57 @@
 |NVDA|Westmore|
 |NVDA|Wheelock|
 |<h3><ins>NWRPC</ins></h3>|Whole RPC|https://www.nrpcvt.com/ ("Municipalities" in nav bar)|
-|NWRPC|Alburgh Town|
-|NWRPC|Alburgh Village|
-|NWRPC|Bakersfield|
-|NWRPC|Berkshire|
-|NWRPC|Enosburg Falls|
-|NWRPC|Enosburgh|
-|NWRPC|Fairfax|
-|NWRPC|Fairfield|
-|NWRPC|Fletcher|
-|NWRPC|Franklin|
-|NWRPC|Georgia|
-|NWRPC|Grand Isle|
-|NWRPC|Highgate|
-|NWRPC|Isle La Motte|
-|NWRPC|Montgomery|
-|NWRPC|North Hero|
-|NWRPC|Richford|
-|NWRPC|Saint Albans City|
-|NWRPC|Saint Albans Town|
-|NWRPC|Sheldon|
-|NWRPC|South Hero|
-|NWRPC|Swanton Town|
-|NWRPC|Swanton Village|
+|NWRPC|Alburgh Town|https://www.nrpcvt.com/municipalities/alburgh-town/
+|NWRPC|Alburgh Village|https://www.nrpcvt.com/municipalities/alburgh-village/
+|NWRPC|Bakersfield|https://www.townofbakersfield.org/policies-publications
+|NWRPC|Berkshire|http://www.berkshirevt.com/planning-commission.html
+|NWRPC|Enosburg Falls|https://villageofenosburgfalls.org/zoning/
+|NWRPC|Enosburgh|https://www.enosburghvt.org/zoning
+|NWRPC|Fairfax|https://fairfax-vt.gov/departments/planning___zoning/index.php#outer-251
+|NWRPC|Fairfield|https://fairfieldvermont.us/planning-%26-zoning
+|NWRPC|Fletcher|https://fletchervt.net/zoning/
+|NWRPC|Franklin|https://www.franklinvermont.org/boards-commissions-departments/zoning-office
+|NWRPC|Georgia|https://www.townofgeorgia.com/zoning-information-permits/page/zoning-regulations-fees-schedules
+|NWRPC|Grand Isle|https://grandislevt.org/departments-2/planning-zoning/
+|NWRPC|Highgate|https://www.highgatevt.org/zoning-administrator
+|NWRPC|Isle La Motte|https://islelamotte.us/town-ordinances/
+|NWRPC|Montgomery|https://montgomeryvt.us/g/office/zoning
+|NWRPC|North Hero|https://www.northherovt.com/35/zoning-administrator
+|NWRPC|Richford|https://www.richfordvt.org/zoning.html
+|NWRPC|Saint Albans City|https://www.stalbansvt.com/development
+|NWRPC|Saint Albans Town|https://stalbanstown.com/departments/zoning/zoning.php
+|NWRPC|Sheldon|https://sheldonvt.com/?SEC=1281EF0E-CAC3-415D-8EA0-D6136A5CCAF7
+|NWRPC|South Hero|https://southherovt.org/laws-and-ordinances/zoning/
+|NWRPC|Swanton Town|https://www.swantonvt.gov/services/zoning-planning
+|NWRPC|Swanton Village|https://www.nrpcvt.com/municipalities/swanton-village/
 |<h3><ins>RRPC</ins></h3>|Whole RPC|https://www.rutlandrpc.org/ ("Communities" in nav bar)|
-|RRPC|Benson|
-|RRPC|Brandon|
-|RRPC|Castleton|
-|RRPC|Chittenden|
-|RRPC|Clarendon|
-|RRPC|Danby|
-|RRPC|Fair Haven|
-|RRPC|Hubbardton|
-|RRPC|Ira|
-|RRPC|Killington|
-|RRPC|Mendon|
-|RRPC|Middletown Springs|
-|RRPC|Mount Holly|
-|RRPC|Mount Tabor|
-|RRPC|Pawlet|
-|RRPC|Pittsford|
-|RRPC|Poultney|
-|RRPC|Proctor|
-|RRPC|Rutland City|
-|RRPC|Rutland Town|
-|RRPC|Shrewsbury|
-|RRPC|Sudbury|
-|RRPC|Tinmouth|
-|RRPC|Wallingford|
-|RRPC|Wells|
-|RRPC|West Haven|
-|RRPC|West Rutland|
+|RRPC|Benson|https://www.bensonvermont.gov/documents-upload/
+|RRPC|Brandon|https://www.townofbrandon.com/resources/policies-ordinances/
+|RRPC|Castleton|https://www.castletonvermont.org/zoning-administrator
+|RRPC|Chittenden|https://sites.google.com/townofchittenden.com/chittenden-vt/ordinances-policies
+|RRPC|Clarendon|https://www.clarendonvt.gov/forms-and-documents/
+|RRPC|Danby|https://www.danbyvt.org/town-regs-and-policies
+|RRPC|Fair Haven|https://fairhavenvt.gov/zoning/
+|RRPC|Hubbardton|https://www.rutlandrpc.org/town/hubbardton/
+|RRPC|Ira|https://www.rutlandrpc.org/town/ira/
+|RRPC|Killington|https://www.killingtontown.com/index.asp?SEC=E2B275E7-9C02-416F-96B9-57A92F367A0E&DE=A1EA1423-33A3-466F-9ED2-A053145F174F
+|RRPC|Mendon|https://www.mendonvt.gov/town-departments/zoning/
+|RRPC|Middletown Springs|https://middletownsprings.vt.gov/town-government/official-documents/
+|RRPC|Mount Holly|https://www.mounthollyvt.org/ordinances/
+|RRPC|Mount Tabor|https://www.rutlandrpc.org/town/mount-tabor/
+|RRPC|Pawlet|https://pawlet.vt.gov/documents/town-plan/
+|RRPC|Pittsford|https://www.pittsfordvermont.com/document/zoning-regulations/
+|RRPC|Poultney|https://www.poultneyplanning.com/the-bylaws
+|RRPC|Proctor|https://proctorvermont.com/ordinances/
+|RRPC|Rutland City|https://www.rutlandcity.org/departments/planning-zoning-department/zoning-permit-information/
+|RRPC|Rutland Town|https://www.rutlandtown.com/ordinances-2/
+|RRPC|Shrewsbury|https://www.shrewsburyvt.org/planning-zoning-documents/
+|RRPC|Sudbury|https://www.rutlandrpc.org/town/sudbury/
+|RRPC|Tinmouth|https://www.rutlandrpc.org/town/tinmouth/
+|RRPC|Wallingford|https://www.wallingfordvt.com/planning-zoning-documents/
+|RRPC|Wells|https://wellsvt.com/listers/
+|RRPC|West Haven|https://www.rutlandrpc.org/town/west-haven/
+|RRPC|West Rutland|https://www.westrutlandvt.org/zoning/
 |<h3><ins>TRORC</ins></h3>|Whole RPC|https://www.trorc.org/zoning/ ("Towns" in nav bar)|
 |TRORC|Barnard|https://barnardvt.us/forms#9A6D2C45-39DD-43AE-9385-540FE483C0C9
 |TRORC|Bethel|https://townofbethelvt.com/zoning-bylaw
