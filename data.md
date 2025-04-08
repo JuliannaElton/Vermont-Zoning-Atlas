@@ -12,8 +12,9 @@ Data uploaded to the National Zoning Atlas can be found in the "ZoningAtlas" fol
 ## Join the Effort
 This effort is a collection of teams which includes volunteers, interns, and students getting course credit. Please reach out in Discussions to see if you can join the effort! Take a look at at the [Contribute](contribute.md) page to understand how to submit changes once you have made yourself familiar with this data
 
----
-|Field Names| Description|Data Type|
+## Fields
+
+| Field Names | Description | Data Type |
 |--------|------------|------|
 |County| County the jurisdiction lies in|Text|
 |RPC| Regional Planning Comission Abbreviation the jurisdiction lies in|Text|
@@ -85,7 +86,7 @@ This effort is a collection of teams which includes volunteers, interns, and stu
 |PUD Allowance| Are Planned Unit Developments in bylaws? (yes/no)|Text|
 |PUD Requires Land Conservation| Planned Unit Developments require land conservation (yes/no)|Text|
 |CONDITIONAL + Other Field name| alternative value for field (ex. CONDITIONAL 1F Min Lot = 2 if Water And Sewer; 3 W/Out Water And Sewer)|Text (generally multiple lines to explain)|
-|Bylaw Date| Date of Bylaw that data is based off (for versioning purposes)|Date Year-MM-DD (Ex. 2024-05-31)|
+|Bylaw Date| Date of Bylaw that data is based off (for versioning purposes)| YYYY-MM-DD (Ex. 2024-05-31)|
 |Version| Zoning Atlas version (also for versioning purposes)|Number (0 decimal places)
 |Acres| Size of district in acres| Number (many decimal places, calculated via Shape_Area field)|
----
+

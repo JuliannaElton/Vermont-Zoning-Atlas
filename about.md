@@ -4,9 +4,10 @@ layout: default
 ---
 # About
 
-![vcgi_map_screenshot](https://verso-uvm.github.io/Vermont-Zoning-Atlas/asset/vcgi_map_screenshot.png)
 ## The Start of the Zoning Atlas
 Inspired by Sara Bronin’s keynote speech at the 2022 [Vermont Statewide Housing Conference](https://vhfa.org/conference), [University of Vermont](https://www.uvm.edu/) students [Yoshi Bird](https://www.linkedin.com/in/yoshi-bird-57278a257/) and [Michael Arnold](https://mvarnold.w3.uvm.edu/) approached the state and other partners about creating a dataset that could visualize geospatial distributions of land use regulations across Vermont down to the individual district level. Emily Sun, a planner from New York City and Middlebury graduate, volunteered as the founding Zoning Analyst Team Lead, supported by Dr. William Hegman of Middlebury College, while Colin Dowey, former of the Agency of Commerce and Community Development, acted as the consulting Geospatial Lead.
+
+![vcgi_map_screenshot](assets/vcgi_map_screenshot.png)
 
 ## Timeline
 - **Spring 2023** - Founding of the Vermont Zoning Atlas and start of volunteer work
@@ -39,6 +40,12 @@ These teams were in conjunction with work by Catherine Dimitruk of the Northwest
 - Zachary Winigrad (Team Lead)
 - Aleah Young 
 - Matthew Premysler
+
+### Spring 2025
+- Zachary Winigrad (Team Lead)
+
+### Summer 2025
+- TBA
 
 ## Outreach
 
@@ -74,4 +81,4 @@ The project is in collaboration with the following
 
 This list is far from comprehensive, but it includes in no particular order:
 
-Ben Cooley, Kendall Fortney, Zoe Sreden, Anoushka Pschorr, Emma Eash, Tucker Schulz, Zachary Winigrad, Matthew Premysler, Yoshi Bird, Michael Arnold, Colin Dowey, Bill Hegman, Emily Sun, Sean Rogers, Jack Reed, Amy Siu, Magali Stowell Aleman, Erik Weis, John Zimmerman , Olivia Ting, Megan Sutor , Emma Spett, Chris Donovan, Patrick Payne, Sam Powers, William Borley, Halimeh Abuayyash , Joy Emmanuel, Frederick Senya, Dakota Walker, Tin Skoric, Leslie Black-Plumeau
+Ben Cooley, Kendall Fortney, Zoe Sreden, Anoushka Pschorr, Emma Eash, Tucker Schulz, Zachary Winigrad, Matthew Premysler, Yoshi Bird, Michael Arnold, Colin Dowey, Bill Hegman, Emily Sun, Sean Rogers, Jack Reed, Amy Siu, Magali Stowell Aleman, Erik Weis, John Zimmerman , Olivia Ting, Megan Sutor, Emma Spett, Chris Donovan, Patrick Payne, Sam Powers, William Borley, Halimeh Abuayyash, Joy Emmanuel, Frederick Senya, Dakota Walker, Tin Skoric, Leslie Black-Plumeau, John Adams and many more!

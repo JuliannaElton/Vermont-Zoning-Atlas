@@ -14,13 +14,11 @@ It is also can be to explore [HOW TO MAKE A ZONING ATLAS](https://www.zoningatla
 This project is under the MIT license, we welcome contributions with the understanding you are submitting it under that license. You are welcome to use, fork and explore this data, that is the point of it!
 
 ## Pull Requests
-All changes should be submitted as a pull request in Github. The geojson is stored in folders:
+All changes should be submitted as a pull request in Github. Pull request updating the data should include reference in the description of what has changes and links to supporting documents. We recommend doing a limited number of changes at a time to make this a reasonable process for everyone.
 
-- data/zoning_atlas_geojson - The Vermont Zoning Map geojson data, this is where changes or updates to geojson should be added
-- data/zoning_bylaws - Zoning Bylaw text from towns in PDF or Word for reference
-- data/zoning_maps - Maps of jurisdictions in PDF, PNG or JPG format for reference
+## Training Resources
 
-Pull request updating the data should include reference in the description of what has changes and links to supporting documents. We recommend doing a limited number of changes at a time to make this a reasonable process for everyone.
+![training_screenshot](presentations/VTZA GIS Workflow.pdf)
 
 ## Glossary
 

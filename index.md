@@ -11,13 +11,10 @@ layout: default
 
 # Vermont Zoning Atlas
 
-Note: This is a community built dataset, please check with your local town offices before taking any actions!
+**This is a community built dataset, use at your own risk and check with your local town offices!**
 
-The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based geospatial interface that visualizes zoning code distributions across all of Vermont. Zoning rules can present barriers to effective city planning, impairing our ability to achieve important policy objectives like community desegregation, climate change resiliency, transportation access, homelessness relief, and affordable housing development. The Vermont Zoning Atlas seeks to democratize researchers', policymakers', advocates', and everyday citizens' understanding of zoning regulations and enable apples-to-apples cross-jurisdiction comparisons through a methodology developed by our partner, the [National Zoning Atlas](https://www.zoningatlas.org/).
-
-
+The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based geospatial interface that visualizes zoning code distributions across all of Vermont. 
 <div id="map" style="width: 100%; height: 800px;"></></div>
-
 
 <script>
   // Initialize the map
@@ -29,10 +26,7 @@ The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based g
   }).addTo(map);
 
   // List of fields to display in the popup
-  var fieldsToDisplay = ["Jurisdiction County","Jurisdiction District Name", "District Type", "District Name","Overlay District","1F Allowance","1F Connection to Sewage/Water Required","1F Elderly Housing Only",
-  "2F Allowance","2F Connection to Sewage/Water Required","2F Elderly Housing Only",
-  "3F Allowance","3F Connection to Sewage/Water Required","3F Elderly Housing Only",
-  "4F Allowance","4F Connection to Sewage/Water Required","4F Elderly Housing Only", "Affordable Housing District","ADU Owner Occupancy Required" ]; // Replace with your field names
+  var fieldsToDisplay = ["Jurisdiction County","Jurisdiction District Name", "District Type", "District Name","Overlay District","1F Allowance","2F Allowance","3F Allowance","3F Connection to Sewage/Water Required","3F Elderly Housing Only","4F Allowance","4F Connection to Sewage/Water Required","4F Elderly Housing Only", "Affordable Housing District","ADU Owner Occupancy Required","1F Connection to Sewage/Water Required","1F Elderly Housing Only","2F Connection to Sewage/Water Required","2F Elderly Housing Only"]; 
 
   // Function to bind popups to each feature
   function onEachFeature(feature, layer) {
@@ -229,6 +223,7 @@ The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based g
     })
     .catch(error => console.error('Error loading GeoJSON data:', error));
 </script>
+Zoning rules can present barriers to effective city planning, impairing our ability to achieve important policy objectives like community desegregation, climate change resiliency, transportation access, homelessness relief, and affordable housing development. The Vermont Zoning Atlas seeks to democratize researchers', policymakers', advocates', and everyday citizens' understanding of zoning regulations and enable apples-to-apples cross-jurisdiction comparisons through a methodology developed by the [National Zoning Atlas](https://www.zoningatlas.org/).
 
 
 
