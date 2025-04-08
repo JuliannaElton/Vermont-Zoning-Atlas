@@ -75,42 +75,42 @@
 |CVRPC|Moretown|https://www.moretownvt.org/laws-and-ordinances/zoning-regs/
 |CVRPC|Northfield|https://www.northfield-vt.gov/zoning-1
 |CVRPC|Orange|https://centralvtplanning.org/towns/orange/
-|CVRPC|Plainfield|
-|CVRPC|Roxbury|
-|CVRPC|Waitsfield|
-|CVRPC|Warren|
-|CVRPC|Washington|
-|CVRPC|Waterbury|
-|CVRPC|Williamstown|
-|CVRPC|Woodbury|
-|CVRPC|Worcester|
+|CVRPC|Plainfield|https://www.plainfieldvt.gov/ordinances-plans-policies--reports.html
+|CVRPC|Roxbury|https://roxburyvt.org/governance-roxbury-vt/permits-and-ordinances/
+|CVRPC|Waitsfield|https://www.waitsfieldvt.gov/departments/planning-zoning
+|CVRPC|Warren|https://www.warrenvt.org/resources/permits-applications-forms/land-use-development-regulations/
+|CVRPC|Washington|https://centralvtplanning.org/towns/washington/
+|CVRPC|Waterbury|https://www.waterburyvt.com/departments/zoning
+|CVRPC|Williamstown|https://williamstownvt.org/ordinances/
+|CVRPC|Woodbury|https://woodburyvt.org/ordinances/
+|CVRPC|Worcester|https://www.worcestervt.org/ordinance-policies 
 |<h3><ins>LCPC</ins></h3>|Whole RPC|https://www.lcpcvt.org/ (scroll down a bit, and there is a slideshow with all the town pages)|
-|LCPC|Belvidere|
-|LCPC|Cambridge|
-|LCPC|Cambridge Village|
-|LCPC|Eden|
-|LCPC|Elmore|
-|LCPC|Hyde Park|
-|LCPC|Hyde Park Village|
-|LCPC|Jefferson|
-|LCPC|Johnson|
-|LCPC|Johnson Village|
-|LCPC|Morristown|
-|LCPC|Morrisville|
-|LCPC|Stowe|
-|LCPC|Waterville|
-|LCPC|Wolcott|
+|LCPC|Belvidere|https://townofbelviderevt.com/ordinances/
+|LCPC|Cambridge|https://www.cambridge.vermont.gov/directory/town_department/planning_and_development(zoning)/index.php
+|LCPC|Cambridge Village|https://www.lcpcvt.org/cambridge-village
+|LCPC|Eden|https://www.lcpcvt.org/Eden
+|LCPC|Elmore|https://elmorevt.org/documents/forms/?_gl=1%2Ajtqts9%2A_ga%2ANTIyNzkzNDA4LjE3NDQxMjE5NTY.%2A_ga_2TFGDS9H5F%2AMTc0NDEyMTk1NS4xLjAuMTc0NDEyMTk2MC4wLjAuMA..
+|LCPC|Hyde Park|https://hydeparkvt.com/department/planning_and_zoning.php
+|LCPC|Hyde Park Village|https://www.villageofhydepark.com/zoning-ordinances
+|LCPC|Jefferson|https://www.lcpcvt.org/jeffersonville
+|LCPC|Johnson|https://townofjohnson.com/documents/ordinances-policies-bylaws/
+|LCPC|Johnson Village|https://townofjohnson.com/boards/planning-commission/
+|LCPC|Morristown|https://www.morristownvt.gov/zoning-planning/page/zoning-bylaws-maps
+|LCPC|Morrisville|https://www.lcpcvt.org/morrisville
+|LCPC|Stowe|https://www.stowevt.gov/Departments/Planning-Zoning
+|LCPC|Waterville|http://www.watervillevt.org/documents/
+|LCPC|Wolcott|https://wolcottvt.org/documents/
 |<h3><ins>MARC</ins></h3>|Whole RPC|https://www.marcvt.org/ ("Towns" in nav bar)|
-|MARC|Andover|
-|MARC|Baltimore|
-|MARC|Cavendish|
-|MARC|Chester|
-|MARC|Ludlow|
-|MARC|Reading|
-|MARC|Springfield|
-|MARC|Weathersfield|
-|MARC|West Windsor|
-|MARC|Windsor|
+|MARC|Andover|https://www.andovervt.org/zoning-planning
+|MARC|Baltimore|https://www.baltimorevt.org/information.htm
+|MARC|Cavendish|https://www.cavendishvt.com/town-ordinances
+|MARC|Chester|https://www.chestervt.gov/planning--zoning.html
+|MARC|Ludlow|https://www.ludlow.vt.us/planning-zoning
+|MARC|Reading|https://readingvt.govoffice.com/?SEC=367F39E7-F412-4760-AACD-91E7BFE75A19
+|MARC|Springfield|https://www.marcvt.org/town-of-springfield.html
+|MARC|Weathersfield|https://www.weathersfieldvt.org/land-use
+|MARC|West Windsor|https://westwindsorvt.govoffice2.com/?SEC=02F64152-0BAA-4E70-ACAF-DB9E94FEA233
+|MARC|Windsor|https://www.windsorvt.org/zoning
 |<h3><ins>NVDA</ins></h3>|Whole RPC|https://www.nvda.net/municipal-land-use-planning.php ("Our Communities" in nav bar)|
 |NVDA|Albany|
 |NVDA|Averill|
@@ -220,60 +220,60 @@
 |RRPC|West Haven|
 |RRPC|West Rutland|
 |<h3><ins>TRORC</ins></h3>|Whole RPC|https://www.trorc.org/zoning/ ("Towns" in nav bar)|
-|TRORC|Barnard|
-|TRORC|Bethel|
-|TRORC|Bradford|
-|TRORC|Braintree|
-|TRORC|Bridgewater|
-|TRORC|Brookfield|
-|TRORC|Chelsea|
-|TRORC|Cornith|
-|TRORC|Fairlee|
-|TRORC|Granville|
-|TRORC|Hancock|
-|TRORC|Hartford|
-|TRORC|Hartland|
-|TRORC|Newbury|
-|TRORC|Norwich|
-|TRORC|Pittsfield|
-|TRORC|Plymouth|
-|TRORC|Pomfret|
-|TRORC|Randolph|
-|TRORC|Rochester|
-|TRORC|Royalton|
-|TRORC|Sharon|
-|TRORC|Stockbridge|
-|TRORC|Strafford|
-|TRORC|Thetford|
-|TRORC|Topsham|
-|TRORC|Tunbridge|
-|TRORC|Vershire|
-|TRORC|West Fairlee|
-|TRORC|Woodstock|
+|TRORC|Barnard|https://barnardvt.us/forms#9A6D2C45-39DD-43AE-9385-540FE483C0C9
+|TRORC|Bethel|https://townofbethelvt.com/zoning-bylaw
+|TRORC|Bradford|https://www.bradford-vt.us/government/departments/zoning/index.php#outer-27
+|TRORC|Braintree|https://braintreevt.gov/town-office/zoning-2/
+|TRORC|Bridgewater|https://bridgewatervt.govoffice3.com/index.asp?SEC=E560DA79-F02C-4A33-B276-B74635999C9B&pri=0
+|TRORC|Brookfield|https://www.trorc.org/towns/brookfield/
+|TRORC|Chelsea|https://www.chelseavt.org/zoning-applications-and-bylaws/
+|TRORC|Cornith|https://corinthvt.org/town-govt/ordinances-policies/
+|TRORC|Fairlee|https://fairleevt.gov/zoning
+|TRORC|Granville|https://www.trorc.org/towns/granville/
+|TRORC|Hancock|https://www.hancockvt.org/flood-hazard-zone-information/
+|TRORC|Hartford|https://www.hartford-vt.org/2463/Planning-Zoning
+|TRORC|Hartland|https://hartland.govoffice.com/?SEC=37C22B72-89EC-44EC-B2A8-9AF8F0218704
+|TRORC|Newbury|https://www.newburyvt.org/zoning-
+|TRORC|Norwich|https://norwich.vt.us/planning-and-zoning/
+|TRORC|Pittsfield|http://www.pittsfieldvt.com/building--zoning-permits-forms--applications.html
+|TRORC|Plymouth|https://www.plymouthvt.org/zoning/
+|TRORC|Pomfret|https://pomfretvt.us/index.php/dep/planning-zoning/zo1/
+|TRORC|Randolph|https://randolphvt.org/index.asp?SEC=9F165CF0-8E2D-436B-82EC-882429967750&DE=53F3B1FD-CF14-473F-80DC-29A11C1FE47D
+|TRORC|Rochester|http://rochestervermont.org/forms-documents/
+|TRORC|Royalton|https://www.royaltonvt.gov/documents_and_reports/index.php#:~:text=The%20Town%20of%20Royalton%20does,an%20allocation%20permit%20is%20required.
+|TRORC|Sharon|https://sharonvt.net/policies-and-ordinances/
+|TRORC|Stockbridge|https://stockbridgevt.gov/ordinances-resolutions/
+|TRORC|Strafford|https://www.straffordvt.org/zoning
+|TRORC|Thetford|https://www.thetfordvt.gov/departments/zoning
+|TRORC|Topsham|https://www.trorc.org/towns/topsham/
+|TRORC|Tunbridge|https://tunbridgevt.org/ordinances/
+|TRORC|Vershire|https://vershirevt.org/documents/
+|TRORC|West Fairlee|https://www.trorc.org/towns/west-fairlee/
+|TRORC|Woodstock|https://www.trorc.org/towns/woodstock/
 |<h3><ins>WRC</ins></h3>|Whole RPC|http://www.windhamregional.org/ ("Towns" in nav bar)|
-|WRC|Athens|
-|WRC|Brattleboro|
-|WRC|Brookline|
-|WRC|Dover|
-|WRC|Dummerston|
-|WRC|Grafton|
-|WRC|Guilford|
-|WRC|Halifax|
-|WRC|Jamaica|
-|WRC|Londonderry|
-|WRC|Marlboro|
-|WRC|Newfane|
-|WRC|Putney|
-|WRC|Readsboro|
-|WRC|Rockingham|
-|WRC|Searsburg|
-|WRC|Somerset|
-|WRC|Stratton|
-|WRC|Townshend|
-|WRC|Vernon|
-|WRC|Wardsboro|
-|WRC|Westminster|
-|WRC|Weston|
-|WRC|Whitingham|
-|WRC|Windham|
-|WRC|Winhall|
+|WRC|Athens|https://www.athensvt.com/town-ordinances.html
+|WRC|Brattleboro|https://brattleboro.gov/zoning
+|WRC|Brookline|https://brooklinevt.com/downloads_category/ordinances-policies/
+|WRC|Dover|https://www.doververmont.com/bc/page/zoning-bylaws-maps
+|WRC|Dummerston|http://www.windhamregional.org/towns/dummerston
+|WRC|Grafton|https://graftonvt.org/documents/policies-2018-current-and-drafts/
+|WRC|Guilford|https://guilfordvt.gov/documents-and-maps/ordinances-adopted-by-the-selectboard/
+|WRC|Halifax|https://halifaxvt.com/policies-regulations/zoning-regulations/
+|WRC|Jamaica|https://www.jamaicavermont.org/ordinances/
+|WRC|Londonderry|https://www.londonderryvt.org/town/zoning-and-by-laws/
+|WRC|Marlboro|https://marlborovt.us/documents/marlboro-zoning-regulations/
+|WRC|Newfane|https://newfanevt.com/forms-documents/
+|WRC|Putney|https://www.putneyvt.gov/departments/zoning_administrator/index.php
+|WRC|Readsboro|https://readsborovt.org/documents
+|WRC|Rockingham|https://www.rockinghamvt.org/planning-zoning
+|WRC|Searsburg|http://www.windhamregional.org/towns/searsburg
+|WRC|Somerset|http://www.windhamregional.org/towns/somerset
+|WRC|Stratton|https://www.townofstrattonvt.com/planning---permitting.html
+|WRC|Townshend|http://www.windhamregional.org/towns/townshend
+|WRC|Vernon|https://vernonvt.org/ordinances-regulations/
+|WRC|Wardsboro|https://wardsborovt.gov/policies-ordinances/
+|WRC|Westminster|https://www.westminstervt.org/departments/zoning/
+|WRC|Weston|https://www.westonvt.org/zoninginformation
+|WRC|Whitingham|https://whitinghamvt.org/TownDepartments/planning-commission
+|WRC|Windham|https://townofwindhamvt.com/town-government/planning-commission/town-zoning-board-info/
+|WRC|Winhall|https://www.winhall.org/services/planning_zoning.php#outer-14
