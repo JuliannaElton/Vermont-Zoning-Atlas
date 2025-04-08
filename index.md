@@ -29,7 +29,10 @@ The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based g
   }).addTo(map);
 
   // List of fields to display in the popup
-  var fieldsToDisplay = ["District Type", "District Name", "1F Allowance"]; // Replace with your field names
+  var fieldsToDisplay = ["Jurisdiction County","Jurisdiction District Name", "District Type", "District Name","Overlay District","1F Allowance","1F Connection to Sewage/Water Required","1F Elderly Housing Only",
+  "2F Allowance","2F Connection to Sewage/Water Required","2F Elderly Housing Only",
+  "3F Allowance","3F Connection to Sewage/Water Required","3F Elderly Housing Only",
+  "4F Allowance","4F Connection to Sewage/Water Required","4F Elderly Housing Only", "Affordable Housing District","ADU Owner Occupancy Required" ]; // Replace with your field names
 
   // Function to bind popups to each feature
   function onEachFeature(feature, layer) {
