@@ -1,6 +1,6 @@
 |RPC|Jurisdiction|Link|
 |-|-|-|
-|**ACRPC**|Whole RPC|https://acrpc.org/regional-programs/municipal-planning/ (be sure to select communities at the top nav bar)|
+|## ACRPC|Whole RPC|https://acrpc.org/regional-programs/municipal-planning/ (be sure to select communities at the top nav bar)|
 |ACRPC|Addison|https://addisonvt.gov/zoning/|
 |ACRPC|Bridport|https://bridportvt.org/town-main-info|
 |ACRPC|Bristol|https://bristolvt.org/documents-and-forms/|
@@ -22,7 +22,7 @@
 |ACRPC|Waltham|https://www.walthamvt.org/resources/developmentreviewboard-planningccommission-zoing|
 |ACRPC|Weybridge|https://www.townofweybridge.org/new-page|
 |ACRPC|Whiting|https://www.whitingvt.com/zoning|
-|**BCRC**|Whole RPC|http://www.bcrcvt.org/regional-plan.html (select town from nav bar)|
+|## BCRC|Whole RPC|http://www.bcrcvt.org/regional-plan.html (select town from nav bar)|
 |BCRC|Arlington|https://arlingtonvermont.org/zoning-planning/|
 |BCRC|Bennington|https://www.benningtonvt.org/services/planning___permitting/building___zoning_ordinances.php|
 |BCRC|Dorset|https://dorsetvt.org/zoning.html|
