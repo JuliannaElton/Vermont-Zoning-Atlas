@@ -22,7 +22,7 @@
 |ACRPC|Waltham|https://www.walthamvt.org/resources/developmentreviewboard-planningccommission-zoing|
 |ACRPC|Weybridge|https://www.townofweybridge.org/new-page|
 |ACRPC|Whiting|https://www.whitingvt.com/zoning|
-|## BCRC|Whole RPC|http://www.bcrcvt.org/regional-plan.html (select town from nav bar)|
+|<h3>BCRC</h3>|Whole RPC|http://www.bcrcvt.org/regional-plan.html (select town from nav bar)|
 |BCRC|Arlington|https://arlingtonvermont.org/zoning-planning/|
 |BCRC|Bennington|https://www.benningtonvt.org/services/planning___permitting/building___zoning_ordinances.php|
 |BCRC|Dorset|https://dorsetvt.org/zoning.html|
@@ -40,7 +40,7 @@
 |BCRC|Stamford|https://townofstamfordvermont.org/forms-and-documents
 |BCRC|Sunderland|https://sunderlandvt.org/town-laws/bylaws-and-town-plan/
 |BCRC|Woodford|https://woodfordvt.org/documents|
-|**CCRPC**|Whole RPC|https://www.ccrpcvt.org/our-work/municipal-planning-assistance/zoning-bylaws/ ("Our Communities" in the nav bar)|
+|<h3>CCRPC</h3>|Whole RPC|https://www.ccrpcvt.org/our-work/municipal-planning-assistance/zoning-bylaws/ ("Our Communities" in the nav bar)|
 |CCRPC|Bolton|https://boltonvt.com/documents/zoning-ordinance-information/
 |CCRPC|Buel's Gore|https://www.ccrpcvt.org/our-communities/buels-gore/
 |CCRPC|Burlington|https://www.burlingtonvt.gov/553/Zoning-Ordinance
@@ -60,7 +60,7 @@
 |CCRPC|Westford|https://westfordvt.us/documents/planning-zoning/
 |CCRPC|Williston|https://www.town.williston.vt.us/?SEC=26EA4BDF-4482-4523-B051-394E7ACEDA5C
 |CCRPC|Winooski|https://winooskivt.gov/202/Regulations-and-Ordinances
-|**CVRPC**|Whole RPC|https://centralvtplanning.org/ ("Towns" in nav bar)|
+|<h3>CVRPC</h3>|Whole RPC|https://centralvtplanning.org/ ("Towns" in nav bar)|
 |CVRPC|Barre City|
 |CVRPC|Barre Town|
 |CVRPC|Berlin|
@@ -84,6 +84,7 @@
 |CVRPC|Williamstown|
 |CVRPC|Woodbury|
 |CVRPC|Worcester|
+|<h3>LCPC</h3>|Whole RPC||
 |LCPC|Belvidere|
 |LCPC|Cambridge|
 |LCPC|Cambridge Village|
@@ -99,6 +100,7 @@
 |LCPC|Stowe|
 |LCPC|Waterville|
 |LCPC|Wolcott|
+|<h3>MARC</h3>|Whole RPC||
 |MARC|Andover|
 |MARC|Baltimore|
 |MARC|Cavendish|
@@ -109,6 +111,7 @@
 |MARC|Weathersfield|
 |MARC|West Windsor|
 |MARC|Windsor|
+|<h3>NVDA</h3>|Whole RPC||
 |NVDA|Albany|
 |NVDA|Averill|
 |NVDA|Avery's Gore|
@@ -164,6 +167,7 @@
 |NVDA|Westfield|
 |NVDA|Westmore|
 |NVDA|Wheelock|
+|<h3>NWRPC</h3>|Whole RPC||
 |NWRPC|Alburgh Town|
 |NWRPC|Alburgh Village|
 |NWRPC|Bakersfield|
@@ -187,6 +191,7 @@
 |NWRPC|South Hero|
 |NWRPC|Swanton Town|
 |NWRPC|Swanton Village|
+|<h3>RRPC</h3>|Whole RPC||
 |RRPC|Benson|
 |RRPC|Brandon|
 |RRPC|Castleton|
@@ -214,6 +219,7 @@
 |RRPC|Wells|
 |RRPC|West Haven|
 |RRPC|West Rutland|
+|<h3>TRORC</h3>|Whole RPC||
 |TRORC|Barnard|
 |TRORC|Bethel|
 |TRORC|Bradford|
@@ -244,6 +250,7 @@
 |TRORC|Vershire|
 |TRORC|West Fairlee|
 |TRORC|Woodstock|
+|<h3>WRC</h3>|Whole RPC||
 |WRC|Athens|
 |WRC|Brattleboro|
 |WRC|Brookline|
