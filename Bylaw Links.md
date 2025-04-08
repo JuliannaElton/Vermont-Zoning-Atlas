@@ -84,7 +84,7 @@
 |CVRPC|Williamstown|
 |CVRPC|Woodbury|
 |CVRPC|Worcester|
-|<h3>LCPC</h3>|Whole RPC||
+|<h3>LCPC</h3>|Whole RPC|https://www.lcpcvt.org/ (scroll down a bit, and there is a slideshow with all the town pages)|
 |LCPC|Belvidere|
 |LCPC|Cambridge|
 |LCPC|Cambridge Village|
@@ -100,7 +100,7 @@
 |LCPC|Stowe|
 |LCPC|Waterville|
 |LCPC|Wolcott|
-|<h3>MARC</h3>|Whole RPC||
+|<h3>MARC</h3>|Whole RPC|https://www.marcvt.org/ ("Towns" in nav bar)|
 |MARC|Andover|
 |MARC|Baltimore|
 |MARC|Cavendish|
@@ -111,7 +111,7 @@
 |MARC|Weathersfield|
 |MARC|West Windsor|
 |MARC|Windsor|
-|<h3>NVDA</h3>|Whole RPC||
+|<h3>NVDA</h3>|Whole RPC|https://www.nvda.net/municipal-land-use-planning.php ("Our Communities" in nav bar)|
 |NVDA|Albany|
 |NVDA|Averill|
 |NVDA|Avery's Gore|
@@ -167,7 +167,7 @@
 |NVDA|Westfield|
 |NVDA|Westmore|
 |NVDA|Wheelock|
-|<h3>NWRPC</h3>|Whole RPC||
+|<h3>NWRPC</h3>|Whole RPC|https://www.nrpcvt.com/ ("Municipalities" in nav bar)|
 |NWRPC|Alburgh Town|
 |NWRPC|Alburgh Village|
 |NWRPC|Bakersfield|
@@ -191,7 +191,7 @@
 |NWRPC|South Hero|
 |NWRPC|Swanton Town|
 |NWRPC|Swanton Village|
-|<h3>RRPC</h3>|Whole RPC||
+|<h3>RRPC</h3>|Whole RPC|https://www.rutlandrpc.org/ ("Communities" in nav bar)|
 |RRPC|Benson|
 |RRPC|Brandon|
 |RRPC|Castleton|
@@ -219,7 +219,7 @@
 |RRPC|Wells|
 |RRPC|West Haven|
 |RRPC|West Rutland|
-|<h3>TRORC</h3>|Whole RPC||
+|<h3>TRORC</h3>|Whole RPC|https://www.trorc.org/zoning/ ("Towns" in nav bar)|
 |TRORC|Barnard|
 |TRORC|Bethel|
 |TRORC|Bradford|
@@ -250,7 +250,7 @@
 |TRORC|Vershire|
 |TRORC|West Fairlee|
 |TRORC|Woodstock|
-|<h3>WRC</h3>|Whole RPC||
+|<h3>WRC</h3>|Whole RPC|http://www.windhamregional.org/ ("Towns" in nav bar)|
 |WRC|Athens|
 |WRC|Brattleboro|
 |WRC|Brookline|
