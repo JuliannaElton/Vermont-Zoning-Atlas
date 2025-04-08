@@ -112,61 +112,61 @@
 |MARC|West Windsor|https://westwindsorvt.govoffice2.com/?SEC=02F64152-0BAA-4E70-ACAF-DB9E94FEA233
 |MARC|Windsor|https://www.windsorvt.org/zoning
 |<h3><ins>NVDA</ins></h3>|Whole RPC|https://www.nvda.net/municipal-land-use-planning.php ("Our Communities" in nav bar)|
-|NVDA|Albany|
-|NVDA|Averill|
-|NVDA|Avery's Gore|
-|NVDA|Barnet|
-|NVDA|Barton|
-|NVDA|Bloomfield|
-|NVDA|Brighton|
-|NVDA|Brownington|
-|NVDA|Brunswick|
-|NVDA|Burke|
-|NVDA|Canaan|
-|NVDA|Charleston|
-|NVDA|Concord|
-|NVDA|Coventry|
-|NVDA|Craftsbury|
-|NVDA|Danville|
-|NVDA|Derby|
-|NVDA|East Haven|
-|NVDA|Ferdinand|
-|NVDA|Glover|
-|NVDA|Granby|
-|NVDA|Greensboro|
-|NVDA|Groton|
-|NVDA|Guildhall|
-|NVDA|Hardwick|
-|NVDA|Holland|
-|NVDA|Irasburg|
-|NVDA|Jay|
-|NVDA|Kirby|
-|NVDA|Lemington|
-|NVDA|Lewis|
-|NVDA|Lowell|
-|NVDA|Lunenburg|
-|NVDA|Lyndon|
-|NVDA|Maidstone|
-|NVDA|Morgan|
-|NVDA|Newark|
-|NVDA|Newport City|
-|NVDA|Newport Town|
-|NVDA|Norton|
-|NVDA|Peacham|
-|NVDA|Ryegate|
-|NVDA|Saint Johnsbury|
-|NVDA|Sheffield|
-|NVDA|Stannard|
-|NVDA|Sutton|
-|NVDA|Troy|
-|NVDA|Victory|
-|NVDA|Walden|
-|NVDA|Warner's Grant|
-|NVDA|Warren Gore|
-|NVDA|Waterford|
-|NVDA|Westfield|
-|NVDA|Westmore|
-|NVDA|Wheelock|
+|NVDA|Albany|https://www.nvda.net/albany.php
+|NVDA|Averill|https://www.nvda.net/utg.php
+|NVDA|Avery's Gore|https://www.nvda.net/utg.php
+|NVDA|Barnet|https://barnetvt.org/boards-and-committees/planning-commission-zoning-board/
+|NVDA|Barton|https://www.bartonvermont.com/zoning-office
+|NVDA|Bloomfield|https://www.nvda.net/bloomfield.php
+|NVDA|Brighton|https://brightonvt.org/planning-zoning/
+|NVDA|Brownington|https://www.browningtonvt.com/town-reports-and-documents
+|NVDA|Brunswick|https://www.nvda.net/brunswick.php
+|NVDA|Burke|https://www.burkevermont.org/Forms-and-Documents
+|NVDA|Canaan|https://www.canaan-vt.org/zoningboardplanningcom.html
+|NVDA|Charleston|https://charlestonvt.org/ordinances/
+|NVDA|Concord|https://www.concordvt.us/town-ordinances/
+|NVDA|Coventry|https://coventryvt.org/planning-commission/
+|NVDA|Craftsbury|https://www.townofcraftsbury.com/planning-commission
+|NVDA|Danville|https://danvillevt.gov/boards-committees/planning-commission/
+|NVDA|Derby|https://derbyvt.org/town-departments/planning-zoning/
+|NVDA|East Haven|https://www.nvda.net/easthaven.php
+|NVDA|Ferdinand|https://www.nvda.net/utg.php
+|NVDA|Glover|https://townofglover.com/glover-town-documents/
+|NVDA|Granby|https://www.nvda.net/granby.php
+|NVDA|Greensboro|https://greensborovt.gov/documents/#zoningbylaw
+|NVDA|Groton|https://grotonvt.com/zoning-administrator/
+|NVDA|Guildhall|https://www.guildhallvt.org/zoning-board.html
+|NVDA|Hardwick|https://hardwickvt.gov/government/planning-zoning-floodplain/
+|NVDA|Holland|https://hollandvt.gov/documents-and-resources/ordinances/
+|NVDA|Irasburg|https://www.nvda.net/irasburg.php
+|NVDA|Jay|https://www.jayvt.com/index.asp?Type=B_BASIC&SEC={4548AA80-3295-423C-B438-14157DBA80F1}
+|NVDA|Kirby|https://www.kirbyvt.gov/documents
+|NVDA|Lemington|https://www.nvda.net/lemington.php
+|NVDA|Lewis|https://www.nvda.net/utg.php
+|NVDA|Lowell|http://www.townoflowell.org/forms---publications-.html
+|NVDA|Lunenburg|https://www.lunenburg-gilmanvt.gov/Ordinances-and-Policies
+|NVDA|Lyndon|https://www.lyndonvt.org/?page_id=22
+|NVDA|Maidstone|https://maidstone-vt.org/zoning-information/
+|NVDA|Morgan|https://townofmorgan.com/zoning/zoning-documents/
+|NVDA|Newark|https://www.nvda.net/newark.php
+|NVDA|Newport City|https://www.newportvermont.org/planning-zoning/
+|NVDA|Newport Town|https://townofnewport.org/town-departments/zoning-board/
+|NVDA|Norton|https://www.nvda.net/norton.php
+|NVDA|Peacham|https://peacham.org/documents/
+|NVDA|Ryegate|https://www.ryegatevt.org/ryegate-zoning-bylaws.html
+|NVDA|Saint Johnsbury|https://docs.stjvt.com/index.php
+|NVDA|Sheffield|https://www.sheffieldvt.org/planning-commission
+|NVDA|Stannard|https://www.nvda.net/stannard.php
+|NVDA|Sutton|https://www.suttonvt.org/town-of-sutton-vt-forms-and-documents
+|NVDA|Troy|https://www.troyvt.gov/services/zoning
+|NVDA|Victory|https://www.nvda.net/victory.php
+|NVDA|Walden|https://waldenvt.gov/index.asp?SEC=C605A7C8-F5AF-42AE-86FF-F1D27E697E57
+|NVDA|Warner's Grant|https://www.nvda.net/utg.php
+|NVDA|Warren Gore|https://www.nvda.net/utg.php
+|NVDA|Waterford|https://waterfordvt.org/forms.html
+|NVDA|Westfield|https://westfield.vt.gov/zoning-bylaw/
+|NVDA|Westmore|https://www.westmoreonline.org/planning-and-zoning
+|NVDA|Wheelock|https://townofwheelockvt.org/
 |<h3><ins>NWRPC</ins></h3>|Whole RPC|https://www.nrpcvt.com/ ("Municipalities" in nav bar)|
 |NWRPC|Alburgh Town|https://www.nrpcvt.com/municipalities/alburgh-town/
 |NWRPC|Alburgh Village|https://www.nrpcvt.com/municipalities/alburgh-village/
