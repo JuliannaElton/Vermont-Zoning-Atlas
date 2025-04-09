@@ -211,3 +211,13 @@ The [Vermont Zoning Atlas](https://www.zoningatlas.org/vermont) is a web-based g
 Zoning rules can present barriers to effective city planning, impairing our ability to achieve important policy objectives like community desegregation, climate change resiliency, transportation access, homelessness relief, and affordable housing development. The Vermont Zoning Atlas seeks to democratize researchers', policymakers', advocates', and everyday citizens' understanding of zoning regulations and enable apples-to-apples cross-jurisdiction comparisons through a methodology developed by the [National Zoning Atlas](https://www.zoningatlas.org/).
 
 The Vermont Zoning Atlas is a database and web tool that brings together zoning laws from 1,755 districts across the state of Vermont. Without this tool, one would have to read thousands of pages of dense legal code to answer simple questions. Its goal is to help answer fundamental questions facing cities and towns: for the land that we have, what can be built?
+
+If you use this data in publications, please Cite it with this DOI: [https://doi.org/10.5281/zenodo.11508694](https://doi.org/10.5281/zenodo.11508694)
+
+## Quicklinks
+
+* [Learn More About the Project](https://verso-uvm.github.io/Vermont-Zoning-Atlas/about.html)
+* [Explore the Structure of the Data](https://verso-uvm.github.io/Vermont-Zoning-Atlas/data.html)
+* [See How to Contribute](https://verso-uvm.github.io/Vermont-Zoning-Atlas/contribute.html)
+* [Resource and Analysis](https://verso-uvm.github.io/Vermont-Zoning-Atlas/resources.html)
+* [MIT License](https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/blob/main/LICENSE)

@@ -24,10 +24,11 @@ There is also a state-wide single file, "[data/State of Vermont](https://github.
 
 If you are interested in viewing the legal PDFs downloaded as part of this process, explore "[data/Town_Bylaw_Text](https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/Town_Bylaw_Text)" and the downloaded maps from town websites here: "[data/Town_Zoning_Maps](https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/Town_Zoning_Maps)"
 
-## Join the Effort
-This effort is a collection of teams which includes volunteers, interns, and students. Please reach out in Discussions to see if you can join the effort! Take a look at at the [Contribute](contribute.md) page to understand how to submit changes once you have made yourself familiar with this data
+## Collection Timeline and Data Error Warning
+This effort is a collection of teams which includes volunteers, interns, and students. This was done over a year period from 2023-2024 and during this time updates to the zoning codes have already made some of this data inaccurate. It is likely that this data will only be updated once a year at most so this data can be out of date. It is also possible that the regulation from the State of Vermont may not be reflected in town zoning just due to the time it takes to update and comply with legislation and the very limited capacity many of these towns have to complete that work. 
 
 ## Fields
+There is a large number of fields, the naming and in some cases the implementation will differ from the National Zoning Atlas. We will also only be maintaining a subset of these dataset over time and markers will be added to the list below when that has been determined.
 
 | Field Names | Description | Data Type |
 |--------|------------|------|
