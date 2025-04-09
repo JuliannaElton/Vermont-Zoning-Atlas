@@ -16,10 +16,6 @@ This project is under the MIT license, we welcome contributions with the underst
 ## Pull Requests
 All changes should be submitted as a pull request in Github. Pull request updating the data should include reference in the description of what has changes and links to supporting documents. We recommend doing a limited number of changes at a time to make this a reasonable process for everyone.
 
-## Training Resources
-
-![training_screenshot](presentations/VTZA GIS Workflow.pdf)
-
 ## Glossary
 
 NOTE: All terms have definitions that vary slightly from town to town. This Glossary is just a very basic summary to get beginners oriented to zoning-speak. Be sure to check each jurisdiction’s rules to know how they specifically define these terms!  

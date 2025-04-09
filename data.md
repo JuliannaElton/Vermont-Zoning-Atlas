@@ -4,13 +4,28 @@ layout: default
 ---
 # Data
 
-Data uploaded to the National Zoning Atlas can be found in the "ZoningAtlas" folder as follows:
-- data/zoning_atlas_geojson - The Vermont Zoning Map geojson data, this is where changes or updates to geojson should be added
-- data/zoning_bylaws - Zoning Bylaw text from towns in PDF or Word for reference
-- data/zoning_maps - Maps of jurisdictions in PDF, PNG or JPG format for reference
+Data has been broken into smaller files for ease in editing. In "[data/RPC](https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/RPCs)" all the zoning files are split out into the Regional Planning Commissions (RPC). This geojson can be explored in the abbreviated viewer on the homepage of this site or downloaded for further analysis.
+
+|Management Region | Website | Abbrev. |
+|--------|------------|------|
+|Addison County | 	[www.acrpc.org/](http://www.acrpc.org/) | ACRPC |
+|Bennington County | 	[www.bcrcvt.org/](http://www.bcrcvt.org/) | BCRC |
+|Chittenden County | [www.ccrpcvt.org](www.ccrpcvt.org) | CCRPC |
+|Central Vermont | 	[www.centralvtplanning.org](www.centralvtplanning.org) | CVRPC |
+|Lamoille County | 	[www.lcpcvt.org](www.lcpcvt.org) | LCPC |
+|Mount Ascutney  |  	[https://marcvt.org/](https://marcvt.org/) | MARC |
+|Northwest | 	[www.nrpcvt.com](www.nrpcvt.com) | NWRPC |
+|Northeastern | [www.nvda.net](www.nvda.net) | NVDA |
+|Rutland | 	[www.rutlandrpc.org](www.rutlandrpc.org) | RPC |
+|Two Rivers-Ottauquechee | [www.trorc.org](www.trorc.org) | TRORC |
+|Windham | [www.windhamregional.org](www.windhamregional.org) | WRC |
+
+There is also a state-wide single file, "[data/State of Vermont](https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/State_of_Vermont)", this is not the preferred way to update the files but rather for analysis.
+
+If you are interested in viewing the legal PDFs downloaded as part of this process, explore "[data/Town_Bylaw_Text](https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/Town_Bylaw_Text)" and the downloaded maps from town websites here: "[data/Town_Zoning_Maps](https://github.com/VERSO-UVM/Vermont-Zoning-Atlas/tree/main/data/Town_Zoning_Maps)"
 
 ## Join the Effort
-This effort is a collection of teams which includes volunteers, interns, and students getting course credit. Please reach out in Discussions to see if you can join the effort! Take a look at at the [Contribute](contribute.md) page to understand how to submit changes once you have made yourself familiar with this data
+This effort is a collection of teams which includes volunteers, interns, and students. Please reach out in Discussions to see if you can join the effort! Take a look at at the [Contribute](contribute.md) page to understand how to submit changes once you have made yourself familiar with this data
 
 ## Fields
 
