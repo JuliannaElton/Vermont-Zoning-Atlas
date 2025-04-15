@@ -104,4 +104,4 @@ Ideally, we don't want to upload new files to the reopository, because we would 
 2) Starting from a .jpg (or any other image file) map
 - Make sure your image file can be brought into ArcGIS Pro (.png and .jpg are safe bets) and then do so.
 - You're then going to want to do a georeference which can be a bit confusing, so stay with me!
-- https://www.youtube.com/watch?time_continue=2132&v=fDVrvpTZVPw&embeds_widget_referrer=https%3A%2F%2Fstorymaps.arcgis.com%2Fstories%2Fc8c4f421004f46fc862d296f3b277022&embeds_referring_euri=https%3A%2F%2Fcdn.embedly.com%2F&embeds_referring_origin=https%3A%2F%2Fcdn.embedly.com&source_ve_path=MTM5MTE3LDE2NDk5LDIzODUx 
+- [https://www.youtube.com/watch?time_continue=2132&v=fDVrvpTZVPw&embeds_widget_referrer=https%3A%2F%2Fstorymaps.arcgis.com%2Fstories%2Fc8c4f421004f46fc862d296f3b277022&embeds_referring_euri=https%3A%2F%2Fcdn.embedly.com%2F&embeds_referring_origin=https%3A%2F%2Fcdn.embedly.com&source_ve_path=MTM5MTE3LDE2NDk5LDIzODUx ](https://www.youtube.com/watch?v=fDVrvpTZVPw&t=2132s)
