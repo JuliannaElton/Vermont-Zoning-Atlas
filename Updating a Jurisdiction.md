@@ -91,8 +91,8 @@ Now in this example, I want to edit the "1F Allowance" field. I can do this by d
 
 Explaining how ArcGIS Pro handles modify and create features is not something I will be outlining here, but I do want to make a few important notes.  
 
-1: All jurisdictions are bound to **US CENSUS TIGER Boundaries**. If you have updated geometries, these need to be clipped/stretched to fit within the TIGER boundary. Using these boundaries allows for easier state-wide viewing, and smoothes over boundary confusion.
-2: We do not want districts overlapping (aside from overlay districts). 
+1: All jurisdictions are bound to **US CENSUS TIGER Boundaries**. If you have updated geometries, these need to be clipped/stretched to fit within the TIGER boundary. Using these boundaries allows for easier state-wide viewing, and smoothes over boundary confusion. There will be a section later on how to get TIGER boundary files.  
+2: We do not want districts overlapping (aside from overlay districts). Overlaps make it difficult to run accurate statistics (especially area based statistics), and can be very hard to notice. Topologies are the best way to avoid running into these, but you can always reach out or upload your update files with a message if you are unsure how to avoid overlaps.  
 
 Best pathways to editing geometries:  
 Ideally, we don't want to upload new files to the reopository, because we would then lose the existing structure (namely the attribute table). So what can we do to keep the table in tact, but change the geometries?
