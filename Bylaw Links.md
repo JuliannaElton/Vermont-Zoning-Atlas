@@ -1,5 +1,5 @@
 |RPC|Jurisdiction|Link|Date|
-|-|-|-|
+|-|-|-|-|
 |<h3><ins>ACRPC</ins></h3>|Whole RPC|https://acrpc.org/regional-programs/municipal-planning/ (be sure to select communities at the top nav bar)|
 |ACRPC|Addison|https://addisonvt.gov/zoning/|2007|
 |ACRPC|Bridport|https://bridportvt.org/town-main-info|2006|
